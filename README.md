@@ -1,4 +1,6 @@
 ![logo](/assets/img/holistic-healing2.png)
 
 
-### Coming Soon
+<p aligh="center">
+# Coming Soon...
+</p>p>
