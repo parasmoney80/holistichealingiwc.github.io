@@ -1,5 +1,9 @@
 :root { --mavi: #6bc1f1 }
-header { background: url('img/holistic-healing2.png') center/cover }
+.header {padding: 5px; margin-bottom: 10px;}
+.body {margin-bottom: 0;/* Hide scrollbars */}
+.container {padding: 10px;}
+.min-vh-100 {padding: 25px;}
+.main {padding: 5px;}
 .bg-mavi { background-color: var(--mavi) }
 .bg-goy{background-color: #072035;}
 .bg-boz { background-color: #f1f1f1 }
